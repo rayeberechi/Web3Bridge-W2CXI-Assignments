@@ -1,0 +1,62 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    .sevillana-regular {
+        font-family: "Sevillana", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+        
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: hsl(0, 0%, 12%);
+    width: 30%;
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+img{
+    border-radius: 50%;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.location{
+    color: #99e930;
+    margin-top: 8px;
+}
+
+.bio {
+    margin: 20px 0;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    display: block;
+    background-color: #353634 ;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.attribution {
+    text-align: center;
+    margin-top: 130px;
+}
